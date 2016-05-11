@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Watson</string>
+    <string name="action_settings">Settings</string>
+    <string name="query_text">Which Act granted legislative assemblies elected by the people?</string>
+    <string name="initial_answer">Watson\'s answers go here</string>
+    <string name="username">udem_student4</string>
+    <string name="password">NSroEf36</string>
+</resources>
